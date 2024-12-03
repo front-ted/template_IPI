@@ -32,21 +32,21 @@
 }
 .audio-player::before{
     content:'';
-    background: url('../images/podcast_esq.svg') no-repeat;
+    background: url('../images/podcast_homem.svg') no-repeat;
     height: 213px;
     width: 220px;
     position: absolute;
-    left: -32px;
-    bottom: -11px;
+    left: -8px;
+    bottom: -57px;
 }
 .audio-player::after{
     content:'';
-    background: url('../images/podcast_dir.svg') no-repeat;
+    background: url('../images/podcast_mulher.svg') no-repeat;
     height: 217px;
     width: 235px;
     position: absolute;
-    right: -32px;
-    bottom: -11px;
+    right: -12px;
+    bottom: -32px;
     z-index: 2;
 }
 .audio-player .timestamp{
@@ -72,13 +72,13 @@
 }
 
 .audio-player .btn-play{
-    background-image: url(../../assets/images/play.svg);
+    background-image: url(../../assets/images/bt_play.svg);
 }
 .audio-player .btn-pause{
-    background-image: url(../../assets/images/pause.svg);
+    background-image: url(../../assets/images/bg_pause.svg);
 }
 .audio-player .btn-transcricao{
-    background-image: url(../../assets/images/transcricao.svg);
+    background-image: url(../../assets/images/bt_transcricao.svg);
 }
 .audio-player .btn-player:active, .audio-player .btn-player:focus{
     transform: translateY(-3px);

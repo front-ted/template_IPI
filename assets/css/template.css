@@ -597,6 +597,13 @@ a.botao{text-decoration: none;}
 .bg-escuro .modal-body * {
     color: #fff;
 }
+
+.bg-escuro .splide .card .card-body p{
+    
+    color: black;
+   
+}
+
 .bg-escuro .destaque *,
 .bg-escuro .box-atividade p,
 .bg-escuro .tab-pane *{
