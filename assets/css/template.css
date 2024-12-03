@@ -442,7 +442,7 @@ a.botao{text-decoration: none;}
 .destaque.icone.atividade::before{background: url('../images/ico_atividade.svg') no-repeat;}
 .destaque.icone.visualizar::before{background: url('../images/ico_visualizar.svg') no-repeat;}
 .destaque.icone.nota::before{background: url('../images/ico_nota.svg') no-repeat;}
-.destaque.icone.conclusao::before{background: url('../images/ico_concluindo.svg') no-repeat;}
+.destaque.icone.conclusao::before{background: url('../images/ico_concluido.svg') no-repeat;}
 
 /*ÍCONES NEGATIVOS*/
 .icone.negativo.atencao::before,

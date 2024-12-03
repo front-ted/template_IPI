@@ -3,18 +3,18 @@
   <defs>
     <style>
       .cls-1 {
-        fill: #ee7d00;
+        fill: #b6bfcd;
         stroke-width: 0px;
       }
 
       .cls-2 {
-        filter: url(#drop-shadow-38);
+        filter: url(#drop-shadow-37);
       }
     </style>
-    <filter id="drop-shadow-38" filterUnits="userSpaceOnUse">
+    <filter id="drop-shadow-37" filterUnits="userSpaceOnUse">
       <feOffset dx=".5" dy=".5"/>
       <feGaussianBlur result="blur" stdDeviation="0"/>
-      <feFlood flood-color="#004788" flood-opacity="1"/>
+      <feFlood flood-color="#4d0053" flood-opacity="1"/>
       <feComposite in2="blur" operator="in"/>
       <feComposite in="SourceGraphic"/>
     </filter>
