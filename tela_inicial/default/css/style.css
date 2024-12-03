@@ -657,7 +657,7 @@ ul {
   z-index: 3;
   width: 525px;
   height: 500px;
-  background: url(../../../assets/images/asset_circulo.svg) no-repeat;
+  background: url(../../../assets/images/losango_ripado.svg) no-repeat;
   background-size: cover;
   top: -55px;
 }
@@ -675,7 +675,7 @@ ul {
   right: -140px;
 }
 .circulo-3 {
-  background: url(../../../assets/images/asset_circulo.svg) no-repeat;
+  background: url(../../../assets/images/losango_ripado.svg) no-repeat;
   position: absolute;
   width: 240px;
   height: 430px;
