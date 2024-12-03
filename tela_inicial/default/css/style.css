@@ -664,7 +664,8 @@ ul {
 .circulo-2 {
   height: 250px;
   width: 250px;
-  border-radius: 50%;
+  /* border-radius: 50%; */
+  background: url(../../../assets/images/losango.svg) no-repeat;
   position: absolute;
   top: 260px;
   left: -125px;
@@ -686,7 +687,8 @@ ul {
 .circulo-4 {
   height: 150px;
   width: 150px;
-  border-radius: 50%;
+  /* border-radius: 50%; */
+  background: url(../../../assets/images/losango.svg) no-repeat;
   position: absolute;
   bottom: 50px;
   right: 30px;
