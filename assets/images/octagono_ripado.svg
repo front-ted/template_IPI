@@ -35,8 +35,8 @@
       </g>
     </mask>
     <linearGradient id="Gradiente_sem_nome_8" data-name="Gradiente sem nome 8" x1="0" y1="-2445.72" x2="150" y2="-2436.06" gradientTransform="translate(0 -2365.89) scale(1 -1)" gradientUnits="userSpaceOnUse">
-      <stop offset=".33" stop-color="#ee7d00"/>
-      <stop offset="1" stop-color="#ffd336"/>
+      <stop offset=".33" stop-color="#b6bfcd"/>
+      <stop offset="1" stop-color="#73f1ff"/>
     </linearGradient>
   </defs>
   <g id="Camada_1-2" data-name="Camada 1">

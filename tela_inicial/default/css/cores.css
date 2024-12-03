@@ -3,9 +3,15 @@
 	Variáveis em cascata para facilitar a mudança de cores de um curso para o outro.
 */
 :root{
-	--cor-primaria: #ee7d00;
-	--cor-secundaria: #ffd336;
-	--cor-terciaria: #5C000F;
+
+
+	
+	--cor-primaria: #B6BFCD;
+	--cor-secundaria: #73F1FF;
+	--cor-terciaria: #4d0053;
+	
+
+	
 
 	--bg-gradiente-primario: var(--cor-terciaria);
 	--gradiente-primario: linear-gradient(30deg, var(--cor-terciaria) 10%, rgba(50,176,175,1) 50%, var(--cor-secundaria) 92%);
